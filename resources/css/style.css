@@ -1,0 +1,44 @@
+h1, h2, p {
+  font-family: Verdana;
+}
+
+* {background-color: black}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+img.center, video.center, .symbol{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+video {
+display: block;
+margin: 0 auto;
+}
+
+#download {
+  text-align: center;
+}
+#download2 {
+  text-align: center;
+}
+
+.symbol {
+  height: 108px;
+    width: 64px;
+    text-align: center;
+    font-size: 21px;
+}
